@@ -3,6 +3,7 @@
 
 
 https://rcmdnk.com/blog/2019/08/18/computer-iot-raspberrypi/
+<br>
 このサイトを見ながら設定をしてラズベリーパイの方でmain.cppを開き下の部分に変更します。
 BLYNK_WRITE(V1)
 {
