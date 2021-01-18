@@ -14,7 +14,7 @@ BLYNK_WRITE(V1)
 <br>
 &emsp;if(param[0].asInt() == 1){
 <br>
-&emsp;&emsp;system("sudo python3 ★/home/pi/python-host/switchbot_py3.py★");//星で囲んだ部分は環境取得プログラムのパスを入れてください。
+&emsp;&emsp;system("sudo python3 ★/home/pi/python-host/switchbot_py3.py★");//（星で囲んだ部分は環境取得プログラムのパスを入れてください。）
 <br>
 &emsp;}
 <br>
